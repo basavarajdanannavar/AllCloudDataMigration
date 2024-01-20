@@ -5,7 +5,7 @@
     <classes>
       <class name="com.allcloud.CustomerCIFID">
         <methods>
-          <include name="CIF"/>
+          <include name="runCIFMultipleTimes"/>
         </methods>
       </class> <!-- com.allcloud.CustomerCIFID -->
     </classes>
